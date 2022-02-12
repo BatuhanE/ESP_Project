@@ -7,8 +7,5 @@
   "[c]": {
     "editor.quickSuggestions": true
   },
-  "C_Cpp.intelliSenseEngineFallback": "Enabled",
-  "files.associations": {
-    "freertos.h": "c"
-  }
+  "C_Cpp.intelliSenseEngineFallback": "Enabled"
 }
